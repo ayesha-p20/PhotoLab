@@ -1,5 +1,5 @@
 # Photo Lab
-**Photo Lab** was an assignment for a curse I took at college. This program accepts an image as input, applies a filter chosen by the user and displays the output image.
+**Photo Lab** was an assignment for a course I took at college. This program accepts an image as input, applies a filter chosen by the user and displays the output image.
 I used pointers and structure to create this program.
 The user can select the following filters:
 * Black and White <br/>
