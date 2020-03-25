@@ -18,7 +18,7 @@ Apart from these options, the user can select 'Autotest', a feature that applies
 This program was made in C on a Linux server. gdb and Valgrind were used to detect errors in the program.
 
 ## Usage
-The user can select a filter from the menu and provide additional arguments if required. The output can be viewed at https://bondi.eecs.uci.edu/~parveza/
-This program also runs in debug mode, in which case it automatically runs Autotest, a function that applies all the filters to the image one by one. <br/>
+The user can select a filter from the menu and provide additional arguments if required. The output can be viewed at https://bondi.eecs.uci.edu/~parveza/ <br/>
+This program also runs in debug mode, in which case it automatically runs Autotest, a function that applies all the filters to the image one by one. <br/><br/>
 The following image shows the effect of each filter on an image: <br/>
 ![Alt text](https://github.com/ayesha-p20/PhotoLab/blob/master/output.png?raw=true "Output 4")
